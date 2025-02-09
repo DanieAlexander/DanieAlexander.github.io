@@ -39,3 +39,14 @@ Skills
 * Python
 * MATLAB
 * Excel VBA
+
+Technologies
+=======
+* Visual Studio
+* VS Code
+* Eclipse
+* Jupyter Notebook
+* Git
+* Github
+* Microsoft Office
+* Tableau
