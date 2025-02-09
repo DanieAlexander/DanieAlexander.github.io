@@ -22,7 +22,7 @@ repository               : "DanieAlexander/DanieAlexander.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dpfp.png"
+  avatar           : "dpfp.jpg"
   name             : "Daniel Alexander"
   pronouns         : # example: "she/her"  
   bio              : "Currently attending Virginia Tech to complete my Bachelor's in Computer Engineering"

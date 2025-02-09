@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Engineering, Virginia Tech, 2025 (expected)
+* A.S. in Engineering, Northern Virginia Community College, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI Research Intern @ Virginia Tech (May 2024 - Jul 2024)
+  * Developed interactive game for children to create and guess other’s drawings.
+  * Children will sketch a drawing which will be used to generate an image using AI. The images will be combined
+and the children will guess what the other person drew.
+  * Built program using HTML for sketching and ComfyUI (Python) with Stable Diffusion 3 for generating and
+combining images. Program was run on a server using Ubuntu.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Program Management Intern @ Micron Technology (May 2022 - Aug 2022)
+  * Monitor and understand late activities on equipment installs in the fab cleanroom.
+  * Automated late activity tracking by using VBA and MySQL to replace previous method of manual extraction.
+  * Analyzed activity data to determine patterns and adjust for future projects.
+  * Collaborated with other departments to improve upon cleanroom efficiency.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Deskside Support Technician @ Hilton (Jul 2019 - Mar 2021)
+  * Tasked with performing hardware and software support for accounts, applications, and equipment for all employees in the main corporate office as well as remote workers in our region.
+  * Worked on project deployment and troubleshooting to employees.
+  * Served as project lead for new hire equipment setup and account configuration.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* C++/C
+* Java
+* Python
+* MATLAB
+* Excel VBA
